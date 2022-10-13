@@ -1,0 +1,4 @@
+[
+{"temperature": "19.86", "relative_humidity": "62", "timestamp": "2022-10-07T00:07:27.597Z"}, {"temperature": "19.72", "relative_humidity": "62", "timestamp": "2022-10-07T01:07:27.474Z"}, {"temperature": "19.57", "relative_humidity": "62", "timestamp": "2022-10-07T02:07:27.420Z"}, 
+{"temperature": "19.45", "relative_humidity": "62", "timestamp": "2022-10-07T03:07:27.252Z"}, {"temperature": "19.25", "relative_humidity": "61.4", "timestamp": "2022-10-07T04:07:27.258Z"}, {"temperature": "19.1", "relative_humidity": "61.7", "timestamp": "2022-10-07T05:07:27.178Z"}
+]
